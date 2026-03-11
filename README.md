@@ -68,7 +68,8 @@ https://github.com/user-attachments/assets/cca9015e-6c23-4f9b-9e8e-1021a4d8b885
   - fᵣₑc → receding frequency  
 - Estimates car speed in m/s or km/h using:  
   v = c × (fₐₚₚ - fᵣₑc) / (fₐₚₚ + fᵣₑc)
-https://github.com/user-attachments/assets/c188c56e-1643-433f-ad12-d7b0c778c33d
+
+  https://github.com/user-attachments/assets/47e2a7f9-0ada-4593-888b-21f9395a123f
 ---
 
 ### 🚗 Doppler Car Sound Generator
@@ -76,8 +77,7 @@ https://github.com/user-attachments/assets/c188c56e-1643-433f-ad12-d7b0c778c33d
 - This project simulates the Doppler effect by generating the sound of a car passing by with `velocity v` and `horn frequency f`.
 - The user can control both parameters, and a spectrogram is displayed to visualize the frequency shift as the car approaches and moves away.
 
-
-<!-- Uploading "Doppler eeffect detection.mp4"... -->---
+https://github.com/user-attachments/assets/7f0ad181-fef6-42a4-b0b9-bdc1425afa7b
 
 ### Drone
 
