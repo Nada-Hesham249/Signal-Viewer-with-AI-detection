@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/cca9015e-6c23-4f9b-9e8e-1021a4d8b885
 
 ## EEG demo:
 <img  width="1891" height="879" src="assets/EEG Signal.png" alt="/EEG Signal" width="600"/>
-<img  width="1891" height="879" src="assets/anthor EEG.png" alt="/anthor EEG" width="600"/>
+<img  width="1891" height="879" src="assets/another EEG.png" alt="/another EEG" width="600"/>
 
 ---
 ##  2) Acoustic Signals Viewer:
