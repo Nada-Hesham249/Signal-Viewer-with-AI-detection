@@ -90,8 +90,7 @@ https://github.com/user-attachments/assets/9ed47174-b575-4e92-bc88-31c1e6c47fbb
 
 This module detects drones from `WAV audio files` using `YAMNet` for feature extraction and a custom classifier, it enables users to upload audio and view predictions
 
-https://github.com/user-attachments/assets/6bf71efb-fc0d-4b47-a98d-b69239d60a28
-
+![Drone](assets/Drone.mp4)
 ---
 ## 3)SAR
 
