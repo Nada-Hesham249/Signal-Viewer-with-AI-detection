@@ -48,17 +48,17 @@ Here’s how the main interface of the Signal Viewer looks:
 ---
 ## ECG demo:
 
-https://github.com/user-attachments/assets/03161f73-dec4-4d85-b559-79b2552b1ff7
+https://github.com/user-attachments/assets/cca9015e-6c23-4f9b-9e8e-1021a4d8b885
 
 ### another abnormal signal: LVH 
 
-<img width="1891" height="879" alt="3" src="https://github.com/user-attachments/assets/a25d1809-86cc-484b-a9a1-0aa03edb0d5c" />
+<img  width="1891" height="879" src="assets/ECG abnormal signal.png" alt="ECG abnormal signal" width="600"/>---
 
 ---
 
 ## EEG demo:
-<img width="1893" height="883" alt="5" src="https://github.com/user-attachments/assets/79403167-0cdc-4b33-b6a7-89b81e778641" />
-<img width="1882" height="913" alt="4" src="https://github.com/user-attachments/assets/85e6c190-00d2-43ca-b06d-38e1638409d6" />
+<img  width="1891" height="879" src="assets/EEG Signal.png" alt="/EEG Signal" width="600"/>---
+<img  width="1891" height="879" src="assets/anothor EEG.png" alt="anothor EEG" width="600"/>---
 
 ---
 ##  2) Acoustic Signals Viewer:
@@ -69,8 +69,7 @@ https://github.com/user-attachments/assets/03161f73-dec4-4d85-b559-79b2552b1ff7
 - Estimates car speed in m/s or km/h using:  
   v = c × (fₐₚₚ - fᵣₑc) / (fₐₚₚ + fᵣₑc)
 
-https://github.com/user-attachments/assets/93002027-cc96-4e1b-9710-6b24d8d870fe
-
+https://github.com/user-attachments/assets/e446ae9e-55fc-4471-a3ff-36e1a6082359
 ---
 
 ### 🚗 Doppler Car Sound Generator
@@ -79,8 +78,7 @@ https://github.com/user-attachments/assets/93002027-cc96-4e1b-9710-6b24d8d870fe
 - The user can control both parameters, and a spectrogram is displayed to visualize the frequency shift as the car approaches and moves away.
 
 
-https://github.com/user-attachments/assets/9ed47174-b575-4e92-bc88-31c1e6c47fbb
-
+https://github.com/user-attachments/assets/30e019f4-ebe9-4083-b441-7e85738ebdb3
 ---
 
 ### Drone
@@ -91,7 +89,7 @@ https://github.com/user-attachments/assets/e94c5640-e678-4df8-ae65-b3a6e818e02e
 
 ## 3)SAR
 
-<img width="816" height="896" alt="9" src="https://github.com/user-attachments/assets/16097857-d51b-428c-af69-fce9c2d62c34" />
+<img width="816" height="896" src="assets/SAR.png" alt="SAR" />
 <img width="812" height="507" alt="10" src="https://github.com/user-attachments/assets/39f5aa26-80ca-44e5-bc59-0b51b47d91d4" />
 
 ---
