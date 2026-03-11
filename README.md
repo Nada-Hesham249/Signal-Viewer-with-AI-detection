@@ -1,5 +1,3 @@
-<img width="1893" height="883" alt="EEG Signal" src="https://github.com/user-attachments/assets/535d5b13-63e9-4a73-9901-5a5b1995b376" /><div align="center">
-
 # **Multi Signal Viewer with AI detection**
 
 </div>
@@ -88,7 +86,7 @@ https://github.com/user-attachments/assets/9ed47174-b575-4e92-bc88-31c1e6c47fbb
 ### Drone
 
 This module detects drones from `WAV audio files` using `YAMNet` for feature extraction and a custom classifier, it enables users to upload audio and view predictions
-
+<!-- Uploading "Drone.mp4"... -->
 
 ## 3)SAR
 
