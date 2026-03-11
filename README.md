@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/cca9015e-6c23-4f9b-9e8e-1021a4d8b885
 
 ### another abnormal signal: LVH 
 
-<img  width="1891" height="879" src="assets/ECG abnormal signal.png" alt="ECG abnormal signal" width="600"/>---
+<img  width="1891" height="879" src="assets/ECG  abnormal signal.png" alt="ECG  abnormal signal" width="600"/>---
 
 ---
 
