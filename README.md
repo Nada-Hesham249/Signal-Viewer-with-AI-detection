@@ -29,7 +29,7 @@ The viewer integrates multiple AI models and interactive visualization modes for
 
 Here’s how the main interface of the Signal Viewer looks:
 
-<img  width="1891" height="879" src="assets/Home page.png" alt="Home Page" width="600"/>---
+<img  width="1891" height="879" src="assets/Home page.png" alt="Home Page" width="600"/>
 
 ##  1) Medical Signals Viewer:
 ### Key features
@@ -52,13 +52,13 @@ https://github.com/user-attachments/assets/cca9015e-6c23-4f9b-9e8e-1021a4d8b885
 
 ### another abnormal signal: LVH 
 
-<img  width="1891" height="879" src="assets/ECG  abnormal signal.png" alt="ECG  abnormal signal" width="600"/>---
+<img  width="1891" height="879" src="assets/ECG  abnormal signal.png" alt="ECG  abnormal signal" width="600"/>
 
 ---
 
 ## EEG demo:
-<img  width="1891" height="879" src="assets/EEG Signal.png" alt="/EEG Signal" width="600"/>---
-<img  width="1891" height="879" src="assets/anthor EEG.png" alt="/anthor EEG" width="600"/>---
+<img  width="1891" height="879" src="assets/EEG Signal.png" alt="/EEG Signal" width="600"/>
+<img  width="1891" height="879" src="assets/anthor EEG.png" alt="/anthor EEG" width="600"/>
 
 ---
 ##  2) Acoustic Signals Viewer:
@@ -68,8 +68,7 @@ https://github.com/user-attachments/assets/cca9015e-6c23-4f9b-9e8e-1021a4d8b885
   - fᵣₑc → receding frequency  
 - Estimates car speed in m/s or km/h using:  
   v = c × (fₐₚₚ - fᵣₑc) / (fₐₚₚ + fᵣₑc)
-
-https://github.com/user-attachments/assets/e446ae9e-55fc-4471-a3ff-36e1a6082359
+https://github.com/user-attachments/assets/c188c56e-1643-433f-ad12-d7b0c778c33d
 ---
 
 ### 🚗 Doppler Car Sound Generator
@@ -78,8 +77,7 @@ https://github.com/user-attachments/assets/e446ae9e-55fc-4471-a3ff-36e1a6082359
 - The user can control both parameters, and a spectrogram is displayed to visualize the frequency shift as the car approaches and moves away.
 
 
-https://github.com/user-attachments/assets/30e019f4-ebe9-4083-b441-7e85738ebdb3
----
+<!-- Uploading "Doppler eeffect detection.mp4"... -->---
 
 ### Drone
 
