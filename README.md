@@ -31,8 +31,7 @@ The viewer integrates multiple AI models and interactive visualization modes for
 
 Here’s how the main interface of the Signal Viewer looks:
 
- <img width="1876" height="860" alt="Home Page" src="https://github.com/user-attachments/assets/e1c94f00-cc5b-4147-ac94-7ee80be83e7e" />
-
+![Home page](assets/Home page.png)
 ---
 
 ##  1) Medical Signals Viewer:
